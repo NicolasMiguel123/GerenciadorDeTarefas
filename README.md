@@ -20,7 +20,7 @@ Persistência de Dados: As tarefas são salvas localmente em um arquivo JSON par
 - **Persistência: As tarefas são salvas automaticamente em um arquivo JSON no diretório do aplicativo.**
 
 # Imagem do software
-![print do Gerenciador de tarefas](GerenciadorDeTarefas\imagem\print.png)
+![print do Gerenciador de tarefas](GerenciadorDeTarefas/imagem/print.png)
 
 
 
