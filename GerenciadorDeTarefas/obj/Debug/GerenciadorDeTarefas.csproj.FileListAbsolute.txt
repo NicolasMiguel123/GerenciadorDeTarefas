@@ -1,0 +1,10 @@
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.exe.config
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.exe
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\bin\Debug\GerenciadorDeTarefas.pdb
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.csproj.AssemblyReference.cache
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.Form1.resources
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.Properties.Resources.resources
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.csproj.GenerateResource.cache
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.csproj.CoreCompileInputs.cache
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.exe
+C:\Users\nicolas.mssilva1\source\repos\GerenciadorDeTarefas\GerenciadorDeTarefas\obj\Debug\GerenciadorDeTarefas.pdb
